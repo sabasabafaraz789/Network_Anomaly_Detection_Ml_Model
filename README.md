@@ -1,4 +1,4 @@
-# Network Anomaly Detection with ML
+# [Network Anomaly Detection with ML](
 
 This project focuses on detecting anomalies and malicious activities in network traffic using Machine Learning techniques. By analyzing network flow features such as protocol, service type, packet statistics, and traffic behavior, the model can classify network traffic as normal or attack-related.
 
