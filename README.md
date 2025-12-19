@@ -1,4 +1,4 @@
-# [Network Anomaly Detection with ML](
+# [Network Anomaly Detection with ML](https://github.com/sabasabafaraz789/Network_Anomaly_Detection_Ml_Model/blob/1ab302a3b22b4893261cecf0bf85089170116435/NetworkAnomalyDetectionMLPipeline.ipynb)
 
 This project focuses on detecting anomalies and malicious activities in network traffic using Machine Learning techniques. By analyzing network flow features such as protocol, service type, packet statistics, and traffic behavior, the model can classify network traffic as normal or attack-related.
 
